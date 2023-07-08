@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kubaeror
+- 👋 Hi, I’m Kuba Konat
 - 👀 I’m interested in Webadmin
 - 🌱 I’m currently learning C++ and Git
 - 💞️ I’m looking to collaborate on VMs
